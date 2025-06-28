@@ -1,0 +1,7 @@
+{
+  "id": "string",
+  "nome": "string",
+  "municipioId": "string",
+  "tipo": "bairro ou aldeia",
+  "criadoEm": "2025-01-01T00:00:00Z"
+}

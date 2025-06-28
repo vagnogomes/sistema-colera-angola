@@ -1,0 +1,7 @@
+{
+  "id": "string",
+  "data": "string",
+  "individuoId": "string",
+  "sintomas": [],
+  "resultado": "positivo/negativo"
+}

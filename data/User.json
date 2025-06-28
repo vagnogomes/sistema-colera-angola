@@ -1,0 +1,8 @@
+{
+  "id": "string",
+  "nome": "string",
+  "email": "string",
+  "role": "admin/agente",
+  "provinciaId": "string",
+  "activo": true
+}

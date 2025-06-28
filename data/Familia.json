@@ -1,0 +1,8 @@
+{
+  "id": "string",
+  "codigo": "string",
+  "chefeNome": "string",
+  "membros": [],
+  "localidadeId": "string",
+  "enderecoId": "string"
+}

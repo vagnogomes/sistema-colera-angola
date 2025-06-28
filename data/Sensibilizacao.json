@@ -1,0 +1,8 @@
+{
+  "id": "string",
+  "data": "string",
+  "tema": "string",
+  "descricao": "string",
+  "localidadeId": "string",
+  "participantes": "int"
+}

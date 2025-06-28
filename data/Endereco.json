@@ -1,0 +1,7 @@
+{
+  "id": "string",
+  "rua": "string",
+  "numeroCasa": "string",
+  "pontoReferencia": "string",
+  "localidadeId": "string"
+}
